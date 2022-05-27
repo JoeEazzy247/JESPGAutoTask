@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JESPGAutoTask", "JESPGAutoTask.csproj", "{98D89E64-2361-4D5E-BF3F-416158EEA96E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98D89E64-2361-4D5E-BF3F-416158EEA96E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D89E64-2361-4D5E-BF3F-416158EEA96E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D89E64-2361-4D5E-BF3F-416158EEA96E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D89E64-2361-4D5E-BF3F-416158EEA96E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12519BC7-AECF-4251-9A6B-4F1F6E69723C}
+	EndGlobalSection
+EndGlobal
